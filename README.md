@@ -10,7 +10,7 @@
 - _{viral-taxa}_.RdRp_motifs.fasta : motif sequences for each viral taxa
 
 ### RdRp phylogenies
-- RdRp-scan_phylogeny.CLUSTALO : RdRp-alignment used to build the master RdRp tree _(Clustal-omega) _
+- RdRp-scan_phylogeny.CLUSTALO : RdRp-alignment used to build the master RdRp tree _(Clustal-omega)_
 - RdRp-scan_phylogeny.CLUSTALO.FAST_TREE : RdRp FastTREE file in Newick format
 
 ### HMM-RdRp database 
