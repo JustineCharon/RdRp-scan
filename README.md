@@ -20,5 +20,5 @@
 - _{viral-taxa}_````HMM_CLUSTALO.0.4.fasta```` : Clustal-omega alignments (40% identity cut-off) used to build HMM profiles.
 
 ````PDB_virRdRp_acc.txt```` : list of viral RdRp PDB accessions\
-````RdRp_keyword.list```` : list of keyword used to retrieve RdRp-like accessions from NCBI Genbank
+````RdRp_keyword.list```` : list of keyword used to retrieve RdRp-like accessions from NCBI Genbank \
 ````RdRp_InterPro_keyword.list```` : list of viral RdRp-like InterProScan entries
