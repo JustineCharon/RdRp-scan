@@ -11,10 +11,10 @@
 - _{viral-taxa}_````.RdRp_motifs.fasta```` : RdRp motif sequences for each viral taxa
 
 ### RdRp phylogenies
-- ````RdRp-scan_phylogeny.CLUSTALO```` : RdRp-alignment used to build the master RdRp tree _(Clustal-omega)_
-- ````RdRp-scan_phylogeny.CLUSTALO.FAST_TREE```` : RdRp FastTREE file in Newick format
+- ````RdRp-scan_phylogeny```` : RdRp-alignment used to build the master RdRp tree _(Clustal-omega)_
+- ````RdRp-scan_phylogeny.FastTREE```` : RdRp FastTREE file in Newick format
 
 ### HMM-RdRp database 
-- ````RdRp_HMM_profile_CLUSTALO.db.h3?```` : RdRp HMM profile database _(Hmmer3-compatible)_
+- ````RdRp_HMM_profile.db.h3?```` : RdRp HMM profile database _(Hmmer3-compatible)_
 - ````ALL_NCBI_Palmdb_RdRp._{viral-taxa}_.0.4.fasta.CLUSTALO```` : Clustal-omega alignments (40% identity cut-off) used to build HMM profiles.
 
