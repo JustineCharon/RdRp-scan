@@ -17,6 +17,6 @@
 
 ### HMM-RdRp database 
 - ````RdRp_HMM_profile.db.h3?```` : RdRp HMM profile database _(Hmmer3-compatible)_
-- ````ALL_NCBI_Palmdb_RdRp._{viral-taxa}_.0.4.fasta.CLUSTALO```` : Clustal-omega alignments (40% identity cut-off) used to build HMM profiles.
+- _{viral-taxa}_````HMM_CLUSTALO.0.4.fasta```` : Clustal-omega alignments (40% identity cut-off) used to build HMM profiles.
 
 ````PDB_virRdRp_acc.txt```` : list of viral RdRp PDB accessions
