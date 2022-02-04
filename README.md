@@ -3,6 +3,7 @@
 # RdRp-Scan - Exploring the "dusk matter" of the RNA virosphere 
 
 ### RdRp sequence database
+- ````RdRp-scan_0.90.info```` : List of accessions, taxonomy, viral species and putative host of RdRp-scan entries
 - ````RdRp-scan_0.90.fasta```` : RdRp-scan RdRp core protein sequence database in fasta format
 - ````RdRp-scan_0.90.dmnd```` : RdRp-scan RdRp core protein sequence database in diamond format
 
