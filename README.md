@@ -19,5 +19,5 @@
 - ````RdRp_HMM_profile.db.h3?```` : RdRp HMM profile database _(Hmmer3-compatible)_
 - _{viral-taxa}_````HMM_CLUSTALO.0.4.fasta```` : Clustal-omega alignments (40% identity cut-off) used to build HMM profiles.
 
-````PDB_virRdRp_acc.txt```` : list of viral RdRp PDB accessions
+````PDB_virRdRp_acc.txt```` : list of viral RdRp PDB accessions\
 ````rdrp_keyword.list```` : list of keyword used to retrieve RdRp-like accessions from NCBI Genbank
