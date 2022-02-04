@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/59948455/141881711-f944a6b8-dd1d-412c-ac43-0438d1d818e6.png)
+![RdRp-scan logo](https://user-images.githubusercontent.com/59948455/152477242-a6cec012-b8c1-42e9-969b-501bf6e14133.png)
+
 # RdRp-Scan - Exploring the "dusk matter" of the RNA virosphere 
 
 ### RdRp sequence database
