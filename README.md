@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/59948455/141881711-f944a6b8-dd1d-412c-ac43-0438d1d818e6.png)
-# RdRpScan - Exploring the "dusk matter" of the RNA virosphere 
+# RdRp-Scan - Exploring the "dusk matter" of the RNA virosphere 
 
 ### RdRp sequence database
 - ````RdRp-scan_0.90.fasta```` : RdRp-scan RdRp core protein sequence database in fasta format
