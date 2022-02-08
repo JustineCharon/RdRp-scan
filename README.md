@@ -22,3 +22,6 @@
 ````PDB_virRdRp_acc.txt```` : list of viral RdRp PDB accessions\
 ````RdRp_keyword.list```` : list of keyword used to retrieve RdRp-like accessions from NCBI Genbank \
 ````RdRp_InterPro_keyword.list```` : list of viral RdRp-like InterProScan entries
+
+### RdRp-scan Workflow
+![WORKFLOW_2-01](https://user-images.githubusercontent.com/59948455/152904535-33026221-c721-4e22-bd3b-35db2eaa89b7.png)
