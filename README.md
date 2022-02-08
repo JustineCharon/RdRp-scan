@@ -5,10 +5,9 @@
 ### RdRp sequence database
 - ````RdRp-scan_0.90.info```` : List of accessions, taxonomy, viral species and putative host of RdRp-scan entries
 - ````RdRp-scan_0.90.fasta```` : RdRp-scan RdRp core protein sequence database in fasta format
-- ````RdRp-scan_0.90.dmnd```` : RdRp-scan RdRp core protein sequence database in diamond format
+- ````RdRp-scan_0.90.dmnd```` : RdRp-scan RdRp core protein sequence database in diamond format (v.2.0.9)
 
 ### RdRp motif database
-- ````RdRp-scan.0.90.RdRp_motifs.geneious```` : Geneious-compatible RdRp Motif annotations _(version 6.0 or later)_
 - _{viral_order}_````.RdRp_motifs.fasta```` : RdRp motif sequences for each viral taxa
 
 ### RdRp phylogenies
@@ -17,7 +16,7 @@
 - ````RdRp-scan.CLUSTALO_0.4.FAST_TREE```` : RdRp FastTREE file in Newick format
 
 ### HMM-RdRp database 
-- ````RdRp_HMM_profile.db.h3?```` : RdRp HMM profile database _(Hmmer3-compatible)_
+- ````RdRp_HMM_profile.db.h3?```` : RdRp HMM profile database _(Hmmer3-compatible ; v3.3)_
 - _{viral-taxa}_````HMM_CLUSTALO.0.4.fasta```` : Clustal-omega alignments (40% identity cut-off) used to build HMM profiles.
 
 ````PDB_virRdRp_acc.txt```` : list of viral RdRp PDB accessions\
