@@ -15,7 +15,7 @@
 - ````RdRp-scan.CLUSTALO_0.4.fasta```` : RdRp-alignment used to build the master RdRp tree _(Clustal-omega)_
 - ````RdRp-scan.CLUSTALO_0.4.FAST_TREE```` : RdRp FastTREE file in Newick format
 
-### HMM-RdRp database (_Profile_db_)
+### HMM-RdRp database (_Profile_db_and_alignments_)
 - ````RdRp_HMM_profile.db.h3?```` : RdRp HMM profile database _(Hmmer3-compatible ; v3.3)_
 - _{viral-taxa}_````HMM_CLUSTALO.0.4.fasta```` : Clustal-omega alignments (40% identity cut-off) used to build HMM profiles.
 
