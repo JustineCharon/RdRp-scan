@@ -1,0 +1,27 @@
+Database name	Profile ID	Description	TRUE RdRp ?
+Pfam	PF00602	Influenza RNA-dependent RNA polymerase subunit PB1	RdRp
+Pfam	PF00680	RNA dependent RNA polymerase	RdRp
+Pfam	PF00946	Mononegavirales RNA dependent RNA polymerase	RdRp
+Pfam	PF00972	Flavivirus RNA-directed RNA polymerase	RdRp
+Pfam	PF00978	RNA dependent RNA polymerase	RdRp
+Pfam	PF00998	Viral RNA dependent RNA polymerase	RdRp
+Pfam	PF02123	Viral RNA-directed RNA-polymerase	RdRp
+Pfam	PF03431	RNA replicase, beta-chain	RdRp
+Pfam	PF04196	Bunyavirus RNA dependent RNA polymerase	RdRp
+Pfam	PF04197	Birnavirus RNA dependent RNA polymerase (VP1)	RdRp
+Pfam	PF05788	Orbivirus RNA-dependent RNA polymerase (VP1)	RdRp
+Pfam	PF05919	Mitovirus RNA-dependent RNA polymerase	RdRp
+Pfam	PF06317	Arenavirus RNA polymerase	RdRp
+Pfam	PF06478	Coronavirus RPol N-terminus	RdRp
+Pfam	PF07925	Reovirus RNA-dependent RNA polymerase lambda 3	RdRp
+Pfam	PF08467	Luteovirus RNA polymerase P1-P2/replicase	RdRp
+Pfam	PF17501	Viral RNA-directed RNA polymerase	RdRp
+PRINTS	PR00914	Luteovirus (ORF3) RNA-directed RNA-polymerase signature	RdRp
+ProSiteProfiles	PS50507	RdRp of positive ssRNA viruses catalytic domain profile.	RdRp
+ProSiteProfiles	PS50522	RdRp of RNA-containing bacteriophages catalytic domain profile.	RdRp
+ProSiteProfiles	PS50523	RdRp of Reoviridae dsRNA viruses catalytic domain profile.	RdRp
+ProSiteProfiles	PS50524	RdRp of Birnaviridae dsRNA viruses catalytic domain profile.	RdRp
+ProSiteProfiles	PS50525	RdRp of negative ssRNA viruses with segmented genomes catalytic domain profile.	RdRp
+ProSiteProfiles	PS50526	RdRp of negative ssRNA viruses with non-segmented genomes catalytic domain profile.	RdRp
+SUPERFAMILY	SSF56672	DNA/RNA polymerases	RdRp
+TIGRFAM	TIGR04234	seadorna_RNAP: RNA-directed RNA polymerase	RdRp
