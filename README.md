@@ -24,4 +24,4 @@
 ````RdRp_InterPro_keyword.list```` : list of viral RdRp-like InterProScan entries
 
 ### RdRp-scan Workflow
-![WORKFLOW_2-01](https://user-images.githubusercontent.com/59948455/152904535-33026221-c721-4e22-bd3b-35db2eaa89b7.png)
+![FIGURE 10](https://user-images.githubusercontent.com/59948455/156093212-3cb506a0-cf78-4f59-8227-5a40f0040d72.png)
